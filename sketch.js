@@ -1,0 +1,1 @@
+console.log("hola, mi nombre es alberto tengo 16 años , me gusta mucho el tema de la programacion, y los videojuegos,mi comida favorita es la lasagna.");
